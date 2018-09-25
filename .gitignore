@@ -1,0 +1,6 @@
+
+*.pdf
+Analytic Report/tmdb_5000_credits.csv
+*.csv
+Analytic Report/.ipynb_checkpoints/Analytic Report-checkpoint.ipynb
+Auction project/.ipynb_checkpoints/auction-checkpoint.ipynb
